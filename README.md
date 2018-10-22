@@ -10,3 +10,5 @@ Your opponent is randomly generated, but for a few special encounters.
 Once you have successfully made it past 20 enemies, there is a boss fight, and here the game ends, one way or another.
 Mechanics for the game are deliberately hidden to allow players the feeling of progress when they think they are finally understanding the strongest course of action.
 Give it a try, and good luck!
+
+The game should appear as it does on the instructions page. If it doesn't, you may need to play with your zoom settings until you have a good match.
